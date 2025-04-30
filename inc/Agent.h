@@ -4,7 +4,7 @@
 #include "GameState.h"
 #include "Vertex.h"
 
-
+//Luis is a dumbass 
 
 class Agent {
     static int getReward(Vertex<GameState>* start, int player);
